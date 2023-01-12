@@ -6,7 +6,7 @@
 
 
 **Project Link** -https://gentle-forest-0f12ddb00.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/kbg7EnZv6ho
 
 ## Azure technologies used for Project
 

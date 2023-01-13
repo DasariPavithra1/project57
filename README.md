@@ -6,7 +6,7 @@
 
 
 **Project Link** -https://gentle-forest-0f12ddb00.2.azurestaticapps.net
-**project demo video link** - https://youtu.be/kbg7EnZv6ho
+**project demo video link** - https://youtu.be/UFCamHJgoD8
 
 ## Azure technologies used for Project
 
@@ -56,6 +56,7 @@ reenshot (15)](https://user-images.githubusercontent.com/121887304/212016148-88e
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
+-txt
 - CSS
 - Bootstrap
 - JavaScript

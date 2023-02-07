@@ -54,11 +54,9 @@ reenshot (15)](https://user-images.githubusercontent.com/121887304/212016148-88e
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
--txt
+- txt
+- HTML 
 - CSS
-- Bootstrap
 - JavaScript
-It’s important to add screenshots, project link, and azure technologies in readme file.
+
 
